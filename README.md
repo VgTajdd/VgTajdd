@@ -1,6 +1,6 @@
 ### Hi there, I'm Agustin
 
-- 🌱 I’m currently learning Raytracing
+- 🌱 I’m currently learning Unreal Engine 4
 - 🥅 Goals: Make public my game engine
 - ⚡ I like to draw and play dota2
 
