@@ -1,8 +1,8 @@
-### Hi there, I'm Agustin
+### Hi, I'm Agustin
 
-- 🌱 I’m currently learning Unreal Engine 4
-- 🥅 Goals: Make public my game engine
+- 🌱 I love C++ and Computer Graphics
 - ⚡ I like to draw and play dota2
+- 🥅 Goals: Make public my game engine
 
 ### Connect with me:
 
