@@ -1,6 +1,9 @@
-### Hi! My name is Agustin
+#### Hi! ```I'm Agustin```
 
-I love C++ and Computer Graphics. I like to draw, listen good music and play Dota2.
+**About me**
+```
+I like a lot C++, Computer Graphics and game engines, so, I'm building my own.
+```
 
 [<img align="left" alt="VgTajdd" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" target="_blank"/>](https://vgtajdd.github.io/)
 [<img align="left" alt="VgTajdd | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" target="_blank"/>](https://www.youtube.com/channel/UCWFJSVtAYKZCTz3uOVrBYiw)
