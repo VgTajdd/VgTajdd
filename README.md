@@ -2,7 +2,7 @@
 
 **About me**
 ```
-I like a lot C++, Computer Graphics and game engines, so, I'm building my own.
+I like a lot C++, computer graphics and game engines, so, I'm creating one...
 ```
 
 [<img align="left" alt="VgTajdd" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" target="_blank"/>](https://vgtajdd.github.io/)
