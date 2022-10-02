@@ -8,19 +8,17 @@ I love C++, computer graphics and game engines, so, I'm creating one...
 
 <table style="padding:10px" align="center">
   <tr>
-    <td colspan="2" align="center">
-      <p align="center"><a href="https://github.com/VgTajdd/neuroevolver">NEUROEVOLVER</a></p>
-      <img src="https://github.com/VgTajdd/neuroevolver/blob/master/neuroevolver_reducido_train.gif" alt="NEUROEVOLVER" height= 500px>
+    <td align="center">
+      <p align="center"><a href="https://github.com/VgTajdd/neuroevolver">Neuroevolver</a></p>
+      <img src="https://github.com/VgTajdd/neuroevolver/blob/master/neuroevolver_reducido_train.gif" alt="Neuroevolver" height= 220px>
     </td> 
-  </tr>
-  <tr>
     <td align="center">
       <p align="center"><a href="https://github.com/VgTajdd/ss_generator">SpriteSheet Generator</a></p>
-      <img src="https://user-images.githubusercontent.com/51887591/89360194-3ec43400-d68d-11ea-99c2-8cc16bab869c.png" alt="SpriteSheet Generator" height = 300px>
+      <img src="https://user-images.githubusercontent.com/51887591/89360194-3ec43400-d68d-11ea-99c2-8cc16bab869c.png" alt="SpriteSheet Generator" height = 220px>
     </td>
     <td align="center">
       <p align="center"><a href="https://github.com/VgTajdd/simple_raytracer">Raytracer</a></p>
-      <img src="https://user-images.githubusercontent.com/51887591/95026634-5a7d9380-0658-11eb-8004-be61ac2aafbe.png" alt="Raytracer" height = 300px>
-    </td>  
+      <img src="https://user-images.githubusercontent.com/51887591/95026634-5a7d9380-0658-11eb-8004-be61ac2aafbe.png" alt="Raytracer" height = 250px>
+    </td>
   </tr>
 </table>
