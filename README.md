@@ -18,7 +18,7 @@ I love C++, computer graphics and game engines, so, I'm creating one...
     </td>
     <td align="center">
       <p align="center"><a href="https://github.com/VgTajdd/simple_raytracer">Raytracer</a></p>
-      <img src="https://user-images.githubusercontent.com/51887591/95026634-5a7d9380-0658-11eb-8004-be61ac2aafbe.png" alt="Raytracer" height = 250px>
+      <img src="https://user-images.githubusercontent.com/51887591/95026634-5a7d9380-0658-11eb-8004-be61ac2aafbe.png" alt="Raytracer" height = 220px>
     </td>
   </tr>
 </table>
