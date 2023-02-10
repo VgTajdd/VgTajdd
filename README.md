@@ -1,24 +1,23 @@
-#### Hi! ```I'm Agustin```
+<a href="https://www.linkedin.com/in/agustin-jesus-durand-diaz">
+<img align="left" src="https://user-images.githubusercontent.com/51887591/218208635-43de1403-add3-41db-aab3-3916a8f60483.PNG" alt="LinkedInHeader" width="100%"/>
+</a>
 
-**About me**
-```
-I love C++, computer graphics and game engines, so, I'm creating one...
-```
-</br>
+## Hi! It's Agustin (AJ)
 
-<table style="padding:10px" align="center">
-  <tr>
-    <td align="center">
-      <p align="center"><a href="https://github.com/VgTajdd/neuroevolver">Neuroevolver</a></p>
-      <img src="https://github.com/VgTajdd/neuroevolver/blob/master/neuroevolver_reducido_train.gif" alt="Neuroevolver" max_height= 220px>
-    </td> 
-    <td align="center">
-      <p align="center"><a href="https://github.com/VgTajdd/ss_generator">SpriteSheet Generator</a></p>
-      <img src="https://user-images.githubusercontent.com/51887591/89360194-3ec43400-d68d-11ea-99c2-8cc16bab869c.png" alt="SpriteSheet Generator" max_height = 220px>
-    </td>
-    <td align="center">
-      <p align="center"><a href="https://github.com/VgTajdd/simple_raytracer">Raytracer</a></p>
-      <img src="https://user-images.githubusercontent.com/51887591/95026634-5a7d9380-0658-11eb-8004-be61ac2aafbe.png" alt="Raytracer" max_height = 220px>
-    </td>
-  </tr>
-</table>
+### About me
+
+Results-oriented, highly-skilled and passionate senior software engineer 
+with 10+ years of experience in software and game development. 
+Strongly focused in problem solving and high quality code contribution.
+
+_I love C++, computer graphics and game engines, so, I'm creating one..._
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VgTajdd&layout=compact)](https://github.com/VgTajdd)
+
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=VgTajdd)](https://github.com/VgTajdd)
+
+<a href="https://www.linkedin.com/in/agustin-jesus-durand-diaz">
+<img align="left" src="https://user-images.githubusercontent.com/51887591/218211159-04e1a5c4-7422-4d97-86ae-0333267d731b.png" alt="LinkedIn" width="50px"/>
+</a>
