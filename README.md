@@ -6,11 +6,7 @@
 
 ### About me
 
-Results-oriented, highly-skilled and passionate senior software engineer 
-with 10+ years of experience in software and game development. 
-Strongly focused in problem solving and high quality code contribution.
-
-_I love C++, computer graphics and game engines, so, I'm creating one..._
+_Experienced and results-driven Senior Software Engineer with over 10 years of expertise in software and game development. Strongly focused on problem-solving and delivering high-quality code that exceeds project objectives. Possessing a passion for C++, computer graphics, and game engines, I have a proven track record of leading teams and contributing significantly to the development of various games using Unreal Engine in my recent jobs. Currently, I am undertaking a side project to develop a game engine from scratch, which has further enhanced my technical abilities and expanded my skill set. I am adept at working with cross-functional teams and have a keen eye for detail to ensure the seamless integration of different components in complex systems._
 
 ---
 
