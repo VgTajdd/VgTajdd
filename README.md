@@ -1,5 +1,5 @@
-<a href="https://www.linkedin.com/in/agustin-jesus-durand-diaz">
-<img align="left" src="https://user-images.githubusercontent.com/51887591/218208635-43de1403-add3-41db-aab3-3916a8f60483.PNG" alt="LinkedInHeader" width="100%"/>
+<a href="https://vgtajdd.github.io">
+<img align="left" src="https://user-images.githubusercontent.com/51887591/218208635-43de1403-add3-41db-aab3-3916a8f60483.PNG" target="_blank" alt="LinkedInHeader" width="100%"/>
 </a>
 
 ## Hi! It's Agustin (AJ)
@@ -10,10 +10,13 @@ _Experienced and results-driven Senior Software Engineer with over 10 years of e
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VgTajdd&layout=compact)](https://github.com/VgTajdd)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VgTajdd&layout=compact)](https://vgtajdd.github.io)
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=VgTajdd)](https://github.com/VgTajdd)
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=VgTajdd)](https://vgtajdd.github.io)
 
+<a href="https://vgtajdd.github.io">
+<img align="left" src="https://user-images.githubusercontent.com/51887591/220408807-6e5ec88c-127b-4ab4-a1c4-3810499a99a3.png" alt="Website" width="50px" target="_blank"/>
+</a>
 <a href="https://www.linkedin.com/in/agustin-jesus-durand-diaz">
-<img align="left" src="https://user-images.githubusercontent.com/51887591/218211159-04e1a5c4-7422-4d97-86ae-0333267d731b.png" alt="LinkedIn" width="50px"/>
+<img align="left" src="https://user-images.githubusercontent.com/51887591/218211159-04e1a5c4-7422-4d97-86ae-0333267d731b.png" alt="LinkedIn" width="50px" target="_blank"/>
 </a>
