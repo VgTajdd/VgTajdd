@@ -1,8 +1,4 @@
-<a href="https://vgtajdd.github.io">
-<img align="left" src="https://user-images.githubusercontent.com/51887591/218208635-43de1403-add3-41db-aab3-3916a8f60483.PNG" target="_blank" alt="LinkedInHeader" width="100%"/>
-</a>
-
-## Hi! It's Agustin (AJ)
+## Hi! It's Agustin (AJ) 👋🏻
 
 ### About me
 
