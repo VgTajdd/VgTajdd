@@ -1,4 +1,4 @@
-## Hi! It's Agustin (AJ) 👋🏻
+## _Agustin Durand_ (AJ) 
 
 ### About me
 
