@@ -6,9 +6,7 @@ _Experienced and results-driven Senior Software Engineer with over 10 years of e
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VgTajdd&layout=compact)](https://vgtajdd.github.io)
-
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=VgTajdd)](https://vgtajdd.github.io)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/8tKXAa5R7-s/0.jpg)](http://www.youtube.com/watch?v=8tKXAa5R7-s)
 
 <a href="https://vgtajdd.github.io">
 <img align="left" src="https://user-images.githubusercontent.com/51887591/220408807-6e5ec88c-127b-4ab4-a1c4-3810499a99a3.png" alt="Website" width="50px" target="_blank"/>
